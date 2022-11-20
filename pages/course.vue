@@ -1,5 +1,5 @@
 <template>
-  <div class="p-12 bg-gray-100 w-full h-full min-h-screen flex flex-col items-center">
+  <div class="p-12 bg-blue-100 w-full h-full min-h-screen flex flex-col items-center">
     <div class="prose mb-12">
       <h1>
         <span class="font-medium">
@@ -30,7 +30,7 @@
         </div>
       </div>
 
-      <div class="prose p-12 bg-red-100 rounded-md w-[65ch]">
+      <div class="prose p-12 bg-white rounded-md w-[65ch]">
         <NuxtPage/>
       </div>
     </div>
