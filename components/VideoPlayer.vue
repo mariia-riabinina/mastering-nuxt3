@@ -9,10 +9,10 @@
   ></iframe>
 </template>
 
-<script lang="ts" setup>
+<script setup>
 const props = defineProps({
   videoId: {
-    type: String,
+    type: Number,
     required: true
   }
 })
