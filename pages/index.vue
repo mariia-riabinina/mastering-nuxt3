@@ -1,5 +1,5 @@
 <template>
-  <h1 class="font-bold text-5xl mb-10">Hello, My Mastering Nuxt 3!</h1>
+  <h1 class="font-bold text-5xl mb-10">Hello, Mastering Nuxt 3!</h1>
   <NuxtLink
     class="rounded text-white font-bold py-2 px-4 cursor-pointer bg-green-500"
     :href="firstLesson.path"
